@@ -9,13 +9,15 @@ It allows users to input process details and select a scheduling algorithm to an
 
 ## How to Run the Program
 
+### Compilation
+
 Make sure you have Java installed. 
 Then you open in VS code you will see the word run above main method.
 
-Then Click IT! The program will run for you.
+Then Click on the word Run! The program will be execute for you.
 
 ## Here is sample menu that you might see
-
+```
 CPU Scheduling Algorithms:
 1. First-Come, First-Served (FCFS)
 2. Shortest-Job-First (SJF)
@@ -23,6 +25,7 @@ CPU Scheduling Algorithms:
 4. Round Robin (RR)
 5. Exit
 Choose an option:
+```
 
 ## Example Input & Output
 ### Sample Input:
