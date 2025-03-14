@@ -1,7 +1,5 @@
 # CPU-Scheduling-Simulator
-# CPU Scheduling Simulator
 
-## Description
 This program implements different CPU scheduling algorithms:
 - First-Come, First-Served (FCFS)
 - Shortest-Job-First (SJF)
