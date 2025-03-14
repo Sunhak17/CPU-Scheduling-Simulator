@@ -4,7 +4,8 @@ This program implements different CPU scheduling algorithms:
 - First-Come, First-Served (FCFS)
 - Shortest-Job-First (SJF)
 - Shortest Remaining Time (SRT)
-
+- Round Robin (RR)
+  
 It allows users to input process details and select a scheduling algorithm to analyze the performance in terms of waiting time and turnaround time.
 
 ## How to Run the Program
