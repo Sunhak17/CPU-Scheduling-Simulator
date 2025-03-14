@@ -9,19 +9,20 @@ It allows users to input process details and select a scheduling algorithm to an
 
 ## How to Run the Program
 
-### Compilation
-Make sure you have Java installed. Then, compile the program using:
-```
-javac CPUScheduler.java
-```
+Make sure you have Java installed. 
+Then you open in VS code you will see the word run above main method.
 
-### Execution
-Run the compiled program:
-```
-java CPUScheduler
-```
+Then Click IT! The program will run for you.
 
-Follow the on-screen instructions to input process details and select a scheduling algorithm.
+## Here is sample menu that you might see
+
+CPU Scheduling Algorithms:
+1. First-Come, First-Served (FCFS)
+2. Shortest-Job-First (SJF)
+3. Shortest-Remaining-Time (SRT)
+4. Round Robin (RR)
+5. Exit
+Choose an option:
 
 ## Example Input & Output
 ### Sample Input:
